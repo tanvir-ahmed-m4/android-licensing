@@ -1,5 +1,7 @@
 # android-licensing
 
+[![Build Status](https://secure.travis-ci.org/erd/android-licensing.png?branch=master)](http://travis-ci.org/erd/android-licensing)
+
 This library is a port of the Android LVL licensing code to gradle for easy inclusion into
 your project. If you want to customize the licensing code, you can still copy the source
 into your project, but this library provides an easy way to get started.
